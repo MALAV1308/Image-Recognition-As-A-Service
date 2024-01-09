@@ -24,7 +24,4 @@
 ### Listener Running
 * This is the same as Listener application but the instance which is running this application won't terminate at all, facilitating quick response to the user.
 
-### Instructions:-
-* HTTP Requests should be sent in the below format
-* http://[IP Address]/cloudimagerecognition?input=[URL of the image]
-* example: http://13.57.186.192:8080/cloudimagerecognition?input=http://visa.lab.asu.edu/cifar-10/104_automobile.png
+
